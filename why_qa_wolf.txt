@@ -1,0 +1,26 @@
+As a recent graduate in electrical and electronics engineering,
+I aim to transition into software development. This position is particularly enticing
+to me due to my past experience in QA engineering back in 2015. During that time,
+I oversaw the administration of an online GTA RPG game spread across 14 servers,
+serving a player base of 20,000 individuals.
+My responsibilities included maintaining automated tests on both the development
+and testing servers, as well as enhancing the game's interactivity by implementing new features.
+I actively troubleshooted bugs in the early stages of development, collaborating closely
+with C++ and C# developers to address issues promptly. Additionally,
+I contributed to the construction of development pipelines,
+facilitating the smooth transition of code from the development server to the production server.
+
+I am drawn to the opportunity at QA Wolf because of the company's
+primary objective of identifying and resolving bugs early on, thereby reducing costs
+and enhancing the maintainability and efficiency of the codebase. I want to empasize
+my desire to contribute to QA Wolf that is making a tangible difference in software development
+landscape by heping teams ship confidently and improve the overall customer experience.
+
+Having the chance to work remotely allows me to achieve a better work-life balance.
+Working from the comfort of my home, surrounded by my desktop setup equipped with three monitors,
+a laptop, and a powerful desktop computer, I am highly skilled and effective in delivering
+quality work efficiently.
+
+I am genuinely excited about the opportunity to join the dynamic team at QA Wolf.
+Thank you for considering my application, and I look forward to the possibility of
+contributing to the company's continued success and growth.
